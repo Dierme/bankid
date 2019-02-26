@@ -1,0 +1,8 @@
+{
+  "name": "dierme/bankid",
+  "autoload": {
+    "psr-0": {
+      "Dierme\\BankId": "src"
+    }
+  }
+}
