@@ -6,7 +6,7 @@
  * Time: 09:41
  */
 
-namespace Dierme\BankId;
+namespace BankId;
 
 
 class BankIdService
