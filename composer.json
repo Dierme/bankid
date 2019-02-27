@@ -1,5 +1,5 @@
 {
-  "name": "Dierme/bankid",
+  "name": "dierme/bankid",
   "description": "BankID integration",
   "require": {
     "php": ">=7.1.3"
