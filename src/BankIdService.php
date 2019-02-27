@@ -13,6 +13,6 @@ class BankIdService
 {
     public function hello()
     {
-        print_r('hi');
+        print_r('hi.v2');
     }
 }
